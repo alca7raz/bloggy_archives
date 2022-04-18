@@ -162,52 +162,10 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   /**
-   * PhotoFigcaption
-   */
-  function addPhotoFigcaption () {
-    document.querySelectorAll('#article-container img').forEach(function (item) {
-      const parentEle = item.parentNode
-      const altValue = item.title || item.alt
-      if (altValue && !parentEle.parentNode.classList.contains('justified-gallery')) {
-        const ele = document.createElement('div')
-        ele.className = 'img-alt is-center'
-        ele.textContent = altValue
-        parentEle.insertBefore(ele, item.nextSibling)
-      }
-    })
-  }
-
-  /**
    * Lightbox
    */
   const runLightbox = () => {
     btf.loadLightbox(document.querySelectorAll('#article-container img:not(.no-lightbox)'))
-  }
-
-  /**
-   * justified-gallery 圖庫排版
-   */
-  const runJustifiedGallery = function (ele) {
-    ele.forEach(item => {
-      const $imgList = item.querySelectorAll('img')
-
-      $imgList.forEach(i => {
-        const dataLazySrc = i.getAttribute('data-lazy-src')
-        if (dataLazySrc) i.src = dataLazySrc
-        btf.wrap(i, 'div', { class: 'fj-gallery-item' })
-      })
-    })
-
-    if (window.fjGallery) {
-      setTimeout(() => { btf.initJustifiedGallery(ele) }, 100)
-      return
-    }
-
-    const newEle = document.createElement('link')
-    newEle.rel = 'stylesheet'
-    newEle.href = GLOBAL_CONFIG.source.justifiedGallery.css
-    document.body.appendChild(newEle)
-    getScript(`${GLOBAL_CONFIG.source.justifiedGallery.js}`).then(() => { btf.initJustifiedGallery(ele) })
   }
 
   /**
@@ -501,8 +459,6 @@ document.addEventListener('DOMContentLoaded', function () {
         item.addEventListener('click', function (e) {
           const $this = this
           $this.classList.add('open')
-          const $fjGallery = $this.nextElementSibling.querySelectorAll('.fj-gallery')
-          $fjGallery.length && btf.initJustifiedGallery($fjGallery)
         })
       })
     }
@@ -526,12 +482,9 @@ document.addEventListener('DOMContentLoaded', function () {
               if (item.id === tabId) item.classList.add('active')
               else item.classList.remove('active')
             })
-            const $isTabJustifiedGallery = $tabContent.querySelectorAll(`#${tabId} .fj-gallery`)
-            if ($isTabJustifiedGallery.length > 0) {
-              btf.initJustifiedGallery($isTabJustifiedGallery)
             }
           }
-        })
+        )
       })
     },
     backToTop: () => {
@@ -605,11 +558,7 @@ document.addEventListener('DOMContentLoaded', function () {
     scrollFnToDo()
     GLOBAL_CONFIG_SITE.isHome && scrollDownInIndex()
     addHighlightTool()
-    addPhotoFigcaption()
     scrollFn()
-
-    const $jgEle = document.querySelectorAll('#article-container .fj-gallery')
-    $jgEle.length && runJustifiedGallery($jgEle)
 
     runLightbox()
     addTableWrap()
