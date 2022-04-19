@@ -1,0 +1,5 @@
+/img/posts/
+    https://raw.fastgit.org/alca7raz/bloggy_archives/archives/img/posts/
+    https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/img/posts/
+
+# SIGN: ntz/wH0/Lmxq1XBX5jy7N/7kxtwUOj9sfIww2Hs7CSaaUiIaMF2XUZi/LFT1PNa6O+ufahpm8LVxfROlX7rH3g==

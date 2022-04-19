@@ -1,0 +1,309 @@
+/js/lib/algolia/algoliasearch-lite.umd.js
+	https://cdn.staticfile.org/algoliasearch/4.13.0/algoliasearch-lite.umd.js
+	https://lib.baomitu.com/algoliasearch/4.13.0/algoliasearch-lite.umd.js
+	https://npm.elemecdn.com/algoliasearch@4.13.0/dist/algoliasearch-lite.umd.js
+	https://unpkg.com/algoliasearch@4.13.0/dist/algoliasearch-lite.umd.js
+
+/js/lib/algolia/instantsearch.production.min.js
+	https://cdn.staticfile.org/instantsearch.js/4.40.4/instantsearch.production.min.js
+	https://lib.baomitu.com/instantsearch.js/4.40.4/instantsearch.production.min.js
+	https://npm.elemecdn.com/instantsearch.js@4.40.4/dist/instantsearch.production.min.js
+	https://unpkg.com/instantsearch.js@4.40.4/dist/instantsearch.production.min.js
+
+/js/lib/blueimp-md5.min.js
+	https://lib.baomitu.com/blueimp-md5/2.19.0/js/md5.min.js
+	https://cdn.staticfile.org/blueimp-md5/2.19.0/js/md5.min.js
+	https://cdnjs.loli.net/ajax/libs/blueimp-md5/2.19.0/js/md5.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/blueimp-md5/2.19.0/js/md5.min.js
+
+/js/lib/fontawesome-free/css/all.min.css
+	https://npm.elemecdn.com/@fortawesome/fontawesome-free@6.1.1/css/all.min.css
+	https://unpkg.com/@fortawesome/fontawesome-free@6.1.1/css/all.min.css
+
+/js/lib/fontawesome-free/webfonts/fa-brands-400.ttf
+	https://npm.elemecdn.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-brands-400.ttf
+	https://unpkg.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-brands-400.ttf
+
+/js/lib/fontawesome-free/webfonts/fa-brands-400.woff2
+	https://npm.elemecdn.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-brands-400.woff2
+	https://unpkg.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-brands-400.woff2
+
+/js/lib/fontawesome-free/webfonts/fa-regular-400.ttf
+	https://npm.elemecdn.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-regular-400.ttf
+	https://unpkg.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-regular-400.ttf
+
+/js/lib/fontawesome-free/webfonts/fa-regular-400.woff2
+	https://npm.elemecdn.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-regular-400.woff2
+	https://unpkg.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-regular-400.woff2
+
+/js/lib/fontawesome-free/webfonts/fa-solid-900.ttf
+	https://npm.elemecdn.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-solid-900.ttf
+	https://unpkg.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-solid-900.ttf
+
+/js/lib/fontawesome-free/webfonts/fa-solid-900.woff2
+	https://npm.elemecdn.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-solid-900.woff2
+	https://unpkg.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-solid-900.woff2
+
+/js/lib/fontawesome-free/webfonts/fa-v4compatibility.ttf
+	https://npm.elemecdn.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-v4compatibility.ttf
+	https://unpkg.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-v4compatibility.ttf
+
+/js/lib/fontawesome-free/webfonts/fa-v4compatibility.woff2
+	https://npm.elemecdn.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-v4compatibility.woff2
+	https://unpkg.com/@fortawesome/fontawesome-free@6.1.1/webfonts/fa-v4compatibility.woff2
+
+/js/lib/instantpage.min.js
+	https://lib.baomitu.com/instant.page/5.1.0/instantpage.min.js
+	https://cdn.staticfile.org/instant.page/5.1.0/instantpage.min.js
+	https://cdn.bootcss.com/instant.page/5.1.0/instantpage.min.js
+	https://cdn.jsdelivr.net/npm/instant.page@5.1.0/instantpage.min.js
+
+/js/lib/katex/copy-tex.css
+	https://lib.baomitu.com/katex/0.13.0/contrib/copy-tex.css
+	https://cdn.staticfile.org/KaTeX/0.13.0/contrib/copy-tex.css
+	https://unpkg.com/katex@0.13.0/dist/contrib/copy-tex.css
+
+/js/lib/katex/copy-tex.min.js
+	https://lib.baomitu.com/KaTeX/0.13.0/contrib/copy-tex.min.js
+	https://cdn.staticfile.org/KaTeX/0.13.0/contrib/copy-tex.min.js
+	https://cdn.bootcdn.net/ajax/libs/KaTeX/0.13.0/contrib/copy-tex.min.js
+	https://cdnjs.loli.net/ajax/libs/KaTeX/0.13.0/contrib/copy-tex.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/KaTeX/0.13.0/contrib/copy-tex.min.js
+
+/js/lib/katex/katex.min.css
+	https://lib.baomitu.com/katex/0.15.3/katex.min.css
+	https://cdn.staticfile.org/KaTeX/0.15.3/katex.min.css
+	https://unpkg.com/katex@0.15.3/dist/katex.min.css
+
+/js/lib/lazyload.iife.min.js
+	https://lib.baomitu.com/vanilla-lazyload/latest/lazyload.iife.min.js
+	https://cdn.staticfile.org/vanilla-lazyload/17.3.1/lazyload.iife.min.js
+	https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js
+
+/js/lib/medium-zoom.min.js
+	https://lib.baomitu.com/medium-zoom/1.0.6/medium-zoom.min.js
+	https://unpkg.zhimg.com/medium-zoom@1.0.6/dist/medium-zoom.min.js
+	https://cdn.staticfile.org/medium-zoom/1.0.6/medium-zoom.min.js
+	https://cdn.bootcdn.net/ajax/libs/medium-zoom/1.0.6/medium-zoom.min.js
+	https://cdnjs.loli.net/ajax/libs/medium-zoom/1.0.6/medium-zoom.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/medium-zoom/1.0.6/medium-zoom.min.js
+
+/js/lib/mermaid.min.js
+	https://lib.baomitu.com/mermaid/latest/mermaid.min.js
+	https://cdn.staticfile.org/mermaid/9.0.0/mermaid.min.js
+	https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
+	https://unpkg.com/mermaid@9.0.0/dist/mermaid.min.js
+
+/js/lib/node-snackbar/snackbar.min.css
+	https://lib.baomitu.com/node-snackbar/0.1.10/snackbar.min.css
+	https://unpkg.zhimg.com/node-snackbar@0.1.10/dist/snackbar.min.css
+	https://cdn.staticfile.org/node-snackbar/0.1.10/snackbar.min.css
+	https://cdn.bootcdn.net/ajax/libs/node-snackbar/0.1.10/snackbar.min.css
+	https://cdnjs.loli.net/ajax/libs/node-snackbar/0.1.10/snackbar.min.css
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/node-snackbar/0.1.10/snackbar.min.css
+
+/js/lib/node-snackbar/snackbar.min.js
+	https://lib.baomitu.com/node-snackbar/0.1.10/snackbar.min.js
+	https://unpkg.zhimg.com/node-snackbar@0.1.10/dist/snackbar.min.js
+	https://cdn.staticfile.org/node-snackbar/0.1.10/snackbar.min.js
+	https://cdnjs.loli.net/ajax/libs/node-snackbar/0.1.10/snackbar.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/node-snackbar/0.1.10/snackbar.min.js
+
+/js/lib/pjax/pjax.min.js
+	https://npm.elemecdn.com/pjax@0.2.8/pjax.min.js
+	https://unpkg.zhimg.com/pjax@0.2.8/pjax.min.js
+	https://cdn.jsdelivr.net/npm/pjax/pjax.min.js
+	https://unpkg.com/pjax@0.2.8/pjax.min.js
+
+/js/lib/three.min.js
+	https://lib.baomitu.com/three.js/r121/three.min.js
+	https://cdn.staticfile.org/three.js/r121/three.min.js
+	https://cdn.bootcdn.net/ajax/libs/three.js/r121/three.min.js
+	https://cdnjs.loli.net/ajax/libs/three.js/r121/three.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/three.js/r121/three.min.js
+
+/js/lib/typed.min.js
+	https://lib.baomitu.com/typed.js/2.0.12/typed.min.js
+	https://cdn.staticfile.org/typed.js/2.0.12/typed.min.js
+	https://cdn.bootcdn.net/ajax/libs/typed.js/2.0.12/typed.min.js
+	https://cdnjs.loli.net/ajax/libs/typed.js/2.0.12/typed.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/typed.js/2.0.12/typed.min.js
+
+/js/lib/vanta/vanta.birds.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.birds.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.birds.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.birds.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.birds.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.birds.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.birds.min.js
+
+/js/lib/vanta/vanta.cells.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.cells.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.cells.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.cells.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.cells.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.cells.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.cells.min.js
+
+/js/lib/vanta/vanta.clouds.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.clouds.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.clouds.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.clouds.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.clouds.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.clouds.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.clouds.min.js
+
+/js/lib/vanta/vanta.clouds2.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.clouds2.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.clouds2.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.clouds2.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.clouds2.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.clouds2.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.clouds2.min.js
+
+/js/lib/vanta/vanta.dots.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.dots.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.dots.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.dots.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.dots.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.dots.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.dots.min.js
+
+/js/lib/vanta/vanta.fog.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.fog.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.fog.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.fog.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.fog.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.fog.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.fog.min.js
+
+/js/lib/vanta/vanta.globe.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.globe.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.globe.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.globe.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.globe.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.globe.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.globe.min.js
+
+/js/lib/vanta/vanta.halo.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.halo.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.halo.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.halo.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.halo.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.halo.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.halo.min.js
+
+/js/lib/vanta/vanta.net.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.net.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.net.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.net.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.net.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.net.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.net.min.js
+
+/js/lib/vanta/vanta.rings.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.rings.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.rings.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.rings.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.rings.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.rings.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.rings.min.js
+
+/js/lib/vanta/vanta.ripple.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.ripple.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.ripple.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.ripple.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.ripple.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.ripple.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.ripple.min.js
+
+/js/lib/vanta/vanta.topology.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.topology.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.topology.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.topology.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.topology.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.topology.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.topology.min.js
+
+/js/lib/vanta/vanta.trunk.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.trunk.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.trunk.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.trunk.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.trunk.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.trunk.min.js
+
+/js/lib/vanta/vanta.waves.min.js
+	https://lib.baomitu.com/vanta/0.5.21/vanta.waves.min.js
+	https://unpkg.zhimg.com/vanta@0.5.21/dist/vanta.waves.min.js
+	https://cdn.staticfile.org/vanta/0.5.21/vanta.waves.min.js
+	https://cdn.bootcdn.net/ajax/libs/vanta/0.5.21/vanta.waves.min.js
+	https://cdnjs.loli.net/ajax/libs/vanta/0.5.21/vanta.waves.min.js
+	https://cdn.jsdelivr.net/gh/cdnjs/cdnjs/ajax/libs/vanta/0.5.21/vanta.waves.min.js
+
+/js/lib/Waline.min.js
+	https://lib.baomitu.com/waline/latest/Waline.min.js
+	https://npm.elemecdn.com/@waline/client/dist/Waline.min.js
+	https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js
+	https://unpkg.com/@waline/client/dist/Waline.min.js
+
+/js/main.js
+	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/js/main.js
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/js/main.js
+
+/js/search/algolia.js
+	https://npm.elemecdn.com/hexo-theme-butterfly@4.1.0/source/js/search/algolia.js
+	https://cdn.jsdelivr.net/npm/hexo-theme-butterfly@4.1.0/source/js/search/algolia.min.js
+
+/js/search/local-search.js
+	https://npm.elemecdn.com/hexo-theme-butterfly@4.1.0/source/js/search/local-search.js
+	https://cdn.jsdelivr.net/npm/hexo-theme-butterfly@4.1.0/source/js/search/local-search.min.js
+
+/js/tw_cn.js
+	https://npm.elemecdn.com/hexo-theme-butterfly@4.1.0/source/js/tw_cn.js
+	https://cdn.jsdelivr.net/npm/hexo-theme-butterfly@4.1.0/source/js/tw_cn.min.js
+
+/js/utils.js
+	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/js/utils.js
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/js/utils.js
+
+/css/index.css
+	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/css/index.css
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/css/index.css
+
+/css/var.css
+	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/css/var.css
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/css/var.css
+
+/img/404.jpg
+	https://npm.elemecdn.com/hexo-theme-butterfly@4.1.0/source/img/404.jpg
+	https://unpkg.com/hexo-theme-butterfly@4.1.0/source/img/404.jpg
+
+/img/background/default.jpg
+	https://global.cdn.mikupics.cn/2022/04/19/3e992e6f89ffc.jpg
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/img/background/default.jpg
+
+/img/cover/default.webp
+	https://global.cdn.mikupics.cn/2022/04/19/e9165585ad4ef.webp
+	https://global.cdn.mikupics.cn/2022/04/19/4c3481f1eb297.jpg
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/img/cover/default.webp
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/img/cover/default.jpg
+
+/img/favicon.webp
+	https://global.cdn.mikupics.cn/2022/04/19/e16b8fc74c82f.webp
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/img/favicon.webp
+	https://global.cdn.mikupics.cn/2022/04/19/c3563ddee84cb.png
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/img/favicon.png
+
+/img/friend_404.gif
+	https://npm.elemecdn.com/hexo-theme-butterfly@4.1.0/source/img/friend_404.gif
+	https://unpkg.com/hexo-theme-butterfly@4.1.0/source/img/friend_404.gif
+
+/img/loading.gif
+	https://npm.elemecdn.com/hexo-theme-fluid@1.8.14/source/img/loading.gif
+	https://unpkg.com/hexo-theme-fluid@1.8.14/source/img/loading.gif
+
+/img/me.jpg
+	https://global.cdn.mikupics.cn/2022/04/19/71017c3b0d831.jpg
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/img/me.jpg
+
+# SIGN: FFoboI3yONl4KJVCve+2EiWFALkJ3/0ALCJtd+u86W2VihLHkFEWJpVWgCIOSkn3UbFOdS0OFX8ewzF0OWxahQ==
