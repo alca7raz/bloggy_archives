@@ -1,3 +1,6 @@
+@global
+	open_timeout=0
+
 /js/lib/algolia/algoliasearch-lite.umd.js
 	https://cdn.staticfile.org/algoliasearch/4.13.0/algoliasearch-lite.umd.js
 	https://lib.baomitu.com/algoliasearch/4.13.0/algoliasearch-lite.umd.js
@@ -306,4 +309,4 @@
 	https://global.cdn.mikupics.cn/2022/04/19/71017c3b0d831.jpg
 	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/img/me.jpg
 
-# SIGN: FFoboI3yONl4KJVCve+2EiWFALkJ3/0ALCJtd+u86W2VihLHkFEWJpVWgCIOSkn3UbFOdS0OFX8ewzF0OWxahQ==
+# SIGN: 86D5YgznsMKH99quOSuWqRwuSvmiItOM+n9J8DCqIEr5sGCELTjq+rsqnZFdVVooArc2RO9Z1RIg1tQ2UR3hlg==
