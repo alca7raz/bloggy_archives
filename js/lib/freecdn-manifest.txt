@@ -5,12 +5,4 @@
 	/manifest-static.txt
 	/manifest-post.txt
 
-/manifest-static.txt
-	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/manifest-static.txt
-	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/manifest-static.txt
-
-/manifest-post.txt
-	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/manifest-post.txt
-	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/manifest-post.txt
-
 # SIGN: fcs985LfwjYSsW+Z6UaY8hQmsxkYyk93LGtVLvZN17phu72AjVl8Z3+oVa0U7TqGg7cVZwPjsXb1icPrT58BEw==
