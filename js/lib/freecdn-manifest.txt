@@ -1,0 +1,16 @@
+@global
+	open_timeout=0.5s
+
+@include
+	/manifest-static.txt
+	/manifest-post.txt
+
+/manifest-static.txt
+	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/manifest-static.txt
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/manifest-static.txt
+
+/manifest-post.txt
+	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/manifest-post.txt
+	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/manifest-post.txt
+
+# SIGN: jXr+9Ir1WKDd+zAh8dfEz+0jo60vxe4CfnEfSCa8sK3q065vaqdqkM5UYtTEgJLNLzChxkPsZtiFEsCBcIUcHQ==
