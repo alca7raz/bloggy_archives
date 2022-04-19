@@ -3,15 +3,11 @@
 	stream=off
 
 /manifest-static.txt
-	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/manifest-static.txt
 	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives/archives/manifest-static.txt
 
 /manifest-post.txt
-	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/manifest-post.txt
 	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives/archives/manifest-post.txt
 
 @include
 	/manifest-static.txt
 	/manifest-post.txt
-
-# SIGN: 2qIGo7PFuM+I3rGqUp3ztxfARkfwTRWt7oCk7QSwxPfMbo/G2oOnxIhOp9n3EM8N3orOB6d3JcJzXidWyMQufQ==

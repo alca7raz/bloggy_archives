@@ -2,14 +2,10 @@
 	open_timeout=0
 
 /js/lib/algolia/algoliasearch-lite.umd.js
-	https://cdn.staticfile.org/algoliasearch/4.13.0/algoliasearch-lite.umd.js
-	https://lib.baomitu.com/algoliasearch/4.13.0/algoliasearch-lite.umd.js
 	https://npm.elemecdn.com/algoliasearch@4.13.0/dist/algoliasearch-lite.umd.js
 	https://unpkg.com/algoliasearch@4.13.0/dist/algoliasearch-lite.umd.js
 
 /js/lib/algolia/instantsearch.production.min.js
-	https://cdn.staticfile.org/instantsearch.js/4.40.4/instantsearch.production.min.js
-	https://lib.baomitu.com/instantsearch.js/4.40.4/instantsearch.production.min.js
 	https://npm.elemecdn.com/instantsearch.js@4.40.4/dist/instantsearch.production.min.js
 	https://unpkg.com/instantsearch.js@4.40.4/dist/instantsearch.production.min.js
 
@@ -250,7 +246,6 @@
 	https://unpkg.com/@waline/client/dist/Waline.min.js
 
 /js/main.js
-	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/js/main.js
 	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/js/main.js
 
 /js/search/algolia.js
@@ -266,15 +261,12 @@
 	https://cdn.jsdelivr.net/npm/hexo-theme-butterfly@4.1.0/source/js/tw_cn.min.js
 
 /js/utils.js
-	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/js/utils.js
 	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/js/utils.js
 
 /css/index.css
-	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/css/index.css
 	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/css/index.css
 
 /css/var.css
-	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/css/var.css
 	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/css/var.css
 
 /img/404.jpg
@@ -308,5 +300,3 @@
 /img/me.jpg
 	https://global.cdn.mikupics.cn/2022/04/19/71017c3b0d831.jpg
 	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/img/me.jpg
-
-# SIGN: 86D5YgznsMKH99quOSuWqRwuSvmiItOM+n9J8DCqIEr5sGCELTjq+rsqnZFdVVooArc2RO9Z1RIg1tQ2UR3hlg==
