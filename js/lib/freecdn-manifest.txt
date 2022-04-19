@@ -1,5 +1,5 @@
 @global
-	open_timeout=0.5s
+	open_timeout=0
 
 @include
 	/manifest-static.txt
@@ -13,4 +13,4 @@
 	https://raw.fastgit.org/alca7raz/bloggy_archives/archives/manifest-post.txt
 	https://cdn.jsdelivr.net/gh/alca7raz/bloggy_archives@archives/manifest-post.txt
 
-# SIGN: jXr+9Ir1WKDd+zAh8dfEz+0jo60vxe4CfnEfSCa8sK3q065vaqdqkM5UYtTEgJLNLzChxkPsZtiFEsCBcIUcHQ==
+# SIGN: fcs985LfwjYSsW+Z6UaY8hQmsxkYyk93LGtVLvZN17phu72AjVl8Z3+oVa0U7TqGg7cVZwPjsXb1icPrT58BEw==
